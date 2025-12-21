@@ -15,7 +15,7 @@ from plotly.subplots import make_subplots
 
 
 # import data
-df = pd.read_csv("german_credit_data.xls")
+df = pd.read_csv("german_credit_data")
 original_df = df.copy()
 original_df = original_df .drop(columns=["Unnamed: 0"])
 

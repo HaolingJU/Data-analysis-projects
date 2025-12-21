@@ -1,34 +1,24 @@
-# Sales Data Analysis
+# 📊 Data Analysis Projects
 
-## 📌 项目背景
-本项目使用某公司销售数据，分析不同产品、地区和时间维度下的销售表现，
-为业务决策提供数据支持。
+这是我个人的数据分析项目作品集，主要使用 Python / SQL / Excel / Power BI 等工具，
+展示从数据清洗、探索性分析到可视化和业务洞察的完整分析流程。
 
-## 🎯 分析目标
-- 分析整体销售趋势
-- 找出销量最高的产品
-- 对比不同地区的销售差异
-
-## 📊 数据说明
-- 数据来源：Kaggle / 模拟数据
-- 数据量：xxxx 行，xx 列
-
-## 🛠 使用工具
-- Python
-- Pandas
-- Matplotlib / Seaborn
+## 🔧 技术栈
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL
+- Excel
+- Power BI / Tableau
 - Jupyter Notebook
 
-## 🔍 分析过程
-1. 数据清洗（缺失值、重复值）
-2. 探索性数据分析（EDA）
-3. 数据可视化
-4. 结论与建议
+## 📁 项目列表
+1. Sales Data Analysis  
+   - 分析销售趋势、产品表现和区域差异  
+   - 技术：Python, Pandas, 可视化  
 
-## 📈 关键结论
-- 结论 1
-- 结论 2
-- 业务建议
+2. User Behavior Analysis  
+   - 用户留存与行为分析  
+   - 技术：SQL, Python  
 
-## 📂 项目文件
-- notebooks/sales_analysis.ipynb
+## 📬 联系方式
+- GitHub: HaolingJU
+- Email: juhaoling@gmail.com

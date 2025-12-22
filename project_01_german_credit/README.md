@@ -30,7 +30,6 @@ The project aims to answer the following business questions:
 - **Programming Language**: Python  
 - **Data Analysis**: Pandas, NumPy  
 - **Visualization**: Matplotlib, Seaborn  
-- **Modeling**: Scikit-learn  
 - **Environment**: Jupyter Notebook  
 - **Version Control**: Git & GitHub  
 

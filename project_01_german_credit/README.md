@@ -62,18 +62,3 @@ The analysis suggests several proactive risk management strategies for banks:
 
 ---
 
-## Modeling Approach
-
-To maintain transparency and interpretability, the project uses:
-
-- **Logistic Regression** to estimate default probabilities and interpret feature effects.
-- **Decision Tree** as a complementary rule-based model to capture non-linear and interaction
-  patterns.
-
-These models reinforce exploratory findings while remaining suitable for regulatory and
-business decision-making contexts.
-
----
-
-## Repository Structure
-

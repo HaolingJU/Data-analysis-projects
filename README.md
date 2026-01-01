@@ -11,11 +11,11 @@ This is my personal portfolio of data analysis projects, which mainly uses tools
 ## 📁 Project lists
 1. Credit analysis
    - identify key drivers of credit risk and to provide insights for credit policy design
-   - 技术：Python, Pandas, 可视化  
+   - Tools & Libraries: pandas; seaborn; matplotlib
 
 2. AB test 
-   - 用户留存与行为分析  
-   - technology：SQL, Python  
+   - new page's conversion rate
+   - Tools & Libraries: pandas; numpy; matplotlib
 
 ## 📬 Contact
 - GitHub: HaolingJU

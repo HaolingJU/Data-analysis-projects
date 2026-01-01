@@ -15,7 +15,7 @@ This is my personal portfolio of data analysis projects, which mainly uses tools
 
 2. AB test 
    - new page's conversion rate
-   - Tools & Libraries: pandas; numpy; matplotlib
+   - Tools & Libraries: pandas; numpy; matplotlib; scipy
 
 ## 📬 Contact
 - GitHub: HaolingJU

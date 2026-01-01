@@ -10,12 +10,12 @@ This is my personal portfolio of data analysis projects, which mainly uses tools
 
 ## 📁 Project lists
 1. Credit analysis
-   - 分析销售趋势、产品表现和区域差异  
+   - identify key drivers of credit risk and to provide insights for credit policy design
    - 技术：Python, Pandas, 可视化  
 
 2. AB test 
    - 用户留存与行为分析  
-   - 技术：SQL, Python  
+   - technology：SQL, Python  
 
 ## 📬 Contact
 - GitHub: HaolingJU
